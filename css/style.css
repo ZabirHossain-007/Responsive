@@ -1,0 +1,64 @@
+.header , .hero , .body , .five , .footer{
+    background-color: hotpink;
+    margin-bottom: 15px;
+}
+
+.cube{
+    margin: 10px 0;
+    height: 80px;
+    background-color: #99D9EA;
+    border: 3px solid green;
+    font-size: 35px;
+    color: antiquewhite;
+}
+
+/* hero section starts from here */
+.cube2{
+    margin: 10px 0;
+    height: 100px;
+    background-color: #99D9EA;
+    font-size: 35px;
+    color: antiquewhite;
+    border: 5px solid green;
+}
+.cube3{
+    height: 90px;
+    background-color: #99D9EA;
+    font-size: 35px;
+    color: antiquewhite;
+
+}
+.bd{
+    border: 5px solid greenyellow;
+}
+
+/* hero section ends here */
+
+/* body section starts from here */
+.cube4{
+    margin: 10px 0;
+    height: 160px;
+    background-color: #99D9EA;
+    font-size: 35px;
+    color: antiquewhite;
+    border: 5px solid green;
+}
+.cube5{
+    height: 150px;
+    background-color: #99D9EA;
+    font-size: 35px;
+    color: antiquewhite;
+    border: 5px solid greenyellow;
+}
+
+/* body section ends here */
+
+/* footer section */
+.cube6{
+    margin: 10px 0;
+    height: 60px;
+    background-color: #99D9EA;
+    font-size: 35px;
+    color: antiquewhite;
+   
+}
